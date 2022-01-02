@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Atma', cursive;
+}
+
+h3 {
+    font-family: 'Amatic SC', cursive;
+}
+
+.col {
+    font-family: 'Handlee', cursive;
+}
+
+.p {
+    font-family: 'Oooh Baby', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.p2 {
+    font-family: 'Handlee', cursive;
+    text-align: center;
+}
+
+/* .center-block h2 {
+    font-family: 'Patrick Hand', sans-serif;
+    margin-bottom: 40px;
+    font-size: 5rem;
+    font-size: 8vw;
+    color: rgb(226, 19, 175);
+
+} */
+
+.navigation {
+    font-family: 'Atma', cursive;
+    text-align: unset;
+    margin-bottom: 20px;
+    text-align: center;
+}
